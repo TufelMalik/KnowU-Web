@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "framework": "create-react-app",
+  "buildCommand": "cd hello-tailwind && npm install && npm run build",
+  "outputDirectory": "hello-tailwind/build",
+  "installCommand": "cd hello-tailwind && npm install"
+}
